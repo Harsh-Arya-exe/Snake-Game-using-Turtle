@@ -1,6 +1,6 @@
 # 🐢 Turtle Python Game
 
-A simple yet engaging game built using Python's built-in `turtle` graphics library. This project is a personal milestone—I wanted to create something entirely on my own, without following any video tutorials or step-by-step guides. The goal was to explore, experiment, and learn by building, and this game is the result of that process.
+A simple yet engaging game built using Python's built-in `turtle` graphics library. This project is a personal milestone— I wanted to create something entirely on my own, without following any video tutorials or step-by-step guides. The goal was to explore, experiment, and learn by building, and this game is the result of that process.
 
 ---
 
