@@ -35,9 +35,8 @@ This game uses the `turtle` module to create interactive graphics and gameplay. 
 
 2. Run the Python file:
 Make sure you have Python installed (version 3.6 or above recommended).
-
-python game.py
-
+   ```bash
+    python game.py
 
 3. Or if you're using an IDE like VS Code, PyCharm, or Thonny, simply open the .py file and run it directly.
 
